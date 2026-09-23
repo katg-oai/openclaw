@@ -241,4 +241,3 @@ describe("incomplete-turn terminal metadata", () => {
     ).toBe("paused");
   });
 });
-

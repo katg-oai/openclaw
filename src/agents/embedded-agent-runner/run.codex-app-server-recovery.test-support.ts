@@ -579,4 +579,3 @@ describe("runEmbeddedAgent Codex app-server recovery", () => {
     },
   );
 });
-
